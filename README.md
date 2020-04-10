@@ -3,7 +3,7 @@
 ## Cloning
 
 ```sh
-git clone https://github.com/jaedle/java-kata-template
+git clone https://github.com/jaedle-kata/kotlin-template.git
 ```
 
 ## Preparing for Kata
